@@ -1,2 +1,4 @@
-*.pickle
 *.h5
+*.rar
+*.zip
+chest_xray/
